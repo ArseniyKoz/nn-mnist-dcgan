@@ -24,7 +24,7 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 jupyter notebook nn_mnist_dcgan.ipynb
-`
+```
 
 ## Результаты
 
@@ -42,3 +42,4 @@ jupyter notebook nn_mnist_dcgan.ipynb
 ## Автор
 
 Арсений Козлов - [github.com/ArseniyKoz](https://github.com/ArseniyKoz)
+
